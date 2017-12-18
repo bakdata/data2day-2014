@@ -7,5 +7,3 @@ Slides: https://speakerdeck.com/fkaufer/python-und-big-data-frameworks-data2day-
 
 Buzzwords: Python, PyData, Big Data, Scale out, Distributed Systems, Hadoop, Impala, Spark
 
-Updated tutorial set with IPython notebooks and code snippets will be released in February 2015 in the following repository: https://github.com/bakdata/pydata-bigdata-tutorial
-
